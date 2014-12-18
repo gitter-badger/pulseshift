@@ -1,4 +1,4 @@
-pulseshift
+The Project Pulseshift
 ==========
 
-Testing Repo creation
+Read the readme carefully. It contains all the detail about the project.
