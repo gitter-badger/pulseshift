@@ -1,4 +1,4 @@
-The Project Pulseshift
+Pulseshift
 ==========
 
-This project will contain many of the hackerank challenges and make it opensource for you.
+1.**HackerRank** code support added

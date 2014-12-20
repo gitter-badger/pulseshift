@@ -3,7 +3,7 @@
 ----------
 
 
-[HackerRank][1] is famous among code enthusiast. This project is about making all the code for the it as open source. 
+[HackerRank][1] is famous among code enthusiast. The HackerRank source code for beginner is made available in the HackerRank directory. It is under Algorithm > WarmUp.
 
 
 
